@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.cnt{
+    width: 80%;
+    background-color: #80BCBD;
+    border-radius: 5px;
+    margin: 2em auto;
+    max-width: 800px;
+    padding: 2em;
+}
+
+.card-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.text{
+    display: none;
+}
+
+hr{
+    padding: 0.05em;
+    background-color: black;
+    border: none;
+}
